@@ -1,5 +1,4 @@
 {
         "name": "Conscription System",
-        "uniques": ["[Gold] cost of purchasing [All] units [-65]%",
-        "[-1] population [in this city] <upon gaining a [All] unit>"],
+        "uniques": ["[Gold] cost of purchasing [All] units [-65]%"]
 }
