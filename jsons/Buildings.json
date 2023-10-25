@@ -1,0 +1,5 @@
+[
+        {
+                "name": "System00",
+                "cost": 1,
+                "uniques": ["[-1] population [in this city] <upon gaining a [All] unit>","Unbuildable","Unsellable"],
