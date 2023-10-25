@@ -1,7 +1,0 @@
-[
-        {
-                "name": "System00",
-                "cost": 1,
-                "uniques": ["Unbuildable","Unsellable"],
-        }
-]
