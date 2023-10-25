@@ -1,4 +1,4 @@
 {
         "name": "Conscription System",
-        "uniques": ["[Gold] cost of purchasing [All] units [-65]%"]
+        "uniques": ["[Gold] cost of purchasing [All] units [-65]%","[All] units gain the [Conscription] promotion"]
 }
