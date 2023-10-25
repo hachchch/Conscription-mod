@@ -2,6 +2,6 @@
         {
                 "name": "System00",
                 "cost": 1,
-                "uniques": ["[-1] population [in this city] <upon purchasing a [All] unit>","Unbuildable","Unsellable"],
+                "uniques": ["Unbuildable","Unsellable"],
         }
 ]
